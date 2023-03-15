@@ -1,0 +1,41 @@
+h2,
+p {
+  font-family: Lato;
+  color: white;
+}
+
+.expenseCard-description {
+  display: flex;
+  color: black;
+  width: 90%;
+  padding-left: 1rem;
+  align-self: center;
+}
+
+.amount {
+  border-radius: 1ch;
+  border: 2px solid #ececec;
+  background-color: blueviolet;
+  padding: 1ch;
+  color: white;
+  width: 100px;
+  height: 20px;
+  align-self: center;
+  text-align: right;
+  align-content: flex-end;
+}
+
+.cardContainer {
+  background-color: rgb(90, 90, 90);
+}
+
+.container {
+  background-color: rgb(95, 104, 104);
+  position: fixed;
+  padding: 2px;
+  margin: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

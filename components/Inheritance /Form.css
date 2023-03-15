@@ -1,0 +1,33 @@
+.baseForm {
+  background-color: rgb(155, 139, 120);
+  border-radius: 1rem;
+  text-align: right;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.baseForm input {
+  margin: 1rem;
+}
+
+.baseForm button {
+  margin: 1rem;
+}
+
+.loginForm {
+  text-align: left;
+  align-items: center;
+  padding: 1rem;
+}
+
+.loginForm input {
+  margin: 1rem;
+}
+
+.contactForm {
+  margin: 1rem;
+}
+.contactForm input {
+  margin: 1rem;
+}
